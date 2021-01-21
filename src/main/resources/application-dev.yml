@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:://mysqllocalhost:3306/my_blog_db?useUnicode=true&characterEncoding=utf8&autoReconnect=true&useSSL=false&serverTimezone=UTC
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+
+
+server:
+  port: 8181
