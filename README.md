@@ -2,4 +2,4 @@
 
 ---
 
-- SpringBoot Blog项目正式启动, 目前处于还没有开发期, 非成品;
+- SpringBoot Blog项目正式启动, 目前处于开发期, 非成品;
